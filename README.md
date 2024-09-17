@@ -1,2 +1,2 @@
-# SEG2505
+# seg2505-tutorial1
 Test
